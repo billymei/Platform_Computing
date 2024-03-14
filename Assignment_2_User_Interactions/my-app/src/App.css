@@ -1,0 +1,9 @@
+h1{background-color: aqua;
+  font-weight: bolder;}
+p{font-size:xx-large;
+font-weight: bold;
+font-family:'Times New Roman', Times, serif;}
+.section{font-size:x-large;
+       font-weight: bolder}
+.subsection{background-color: aquamarine;
+          font-size:xx-large}
